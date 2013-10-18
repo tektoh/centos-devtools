@@ -37,7 +37,7 @@ Usage
 {
   "name":"my_node",
   "run_list": [
-    "recipe[devtools]"
+    "recipe[centos-devtools]"
   ]
 }
 ```
